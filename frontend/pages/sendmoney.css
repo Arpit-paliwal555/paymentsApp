@@ -1,0 +1,49 @@
+#tittle{
+    font-size: larger;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-family: Tahoma, 'Cambria', Georgia, Times, 'Times New Roman', serif;
+
+}
+#transferbutton{
+    border-radius: 8px;
+    width: 50%;
+    margin-left: 140px;
+    margin-bottom: 20px;
+    height: 45px;
+    background-color: #00f25d;
+    margin-top: 20px;
+    border: 1px solid #f1f1f1;
+}
+#transferbutton:active{
+    background-color: #39a4d6;
+    transform: scale(0.98); 
+    /* Scaling button to 0.98 to its original size */ 
+    box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24); 
+     /* Lowering the shadow */ 
+  }
+input{
+    border-radius: 4px;
+    
+    padding: 15px;
+    width: 80%;
+    margin-left: 40px;
+    border: 1px solid #f1f1f1;
+}
+#container3{
+    padding: 10px;
+    width: 500px;
+    height: 325px;
+    background-color:#FFFFFF;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.details{
+    margin-left: 40px;
+    margin-bottom: 4px;
+}

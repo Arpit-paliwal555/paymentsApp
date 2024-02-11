@@ -1,0 +1,46 @@
+.userlist{
+    justify-content: space-between;
+    width: 99%;
+    height: 45px;
+    margin-top: 10px;
+    margin-left: 5px;
+    padding: 3px;
+    display: flex;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  #sendbutton{
+    width: 250px;
+    height: 40px;
+    margin-left: 1200px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+    margin-right: 5px;
+    border-radius: 4px;
+    background-color: #39a4d6;
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, 'Geneva', Verdana, sans-serif;
+    
+  }
+
+#sendbutton:active{
+  background-color: #39a4d6;
+  transform: scale(0.98); 
+  /* Scaling button to 0.98 to its original size */ 
+  box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24); 
+   /* Lowering the shadow */ 
+}
+
+  .profile-pic{
+    margin-left: 5px;
+    height: 100%;
+    margin-bottom: 2px;
+  }
+
+  .username{
+    margin-left: 5px;
+    margin-top: 8px;
+    height: 100%;
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, 'Geneva', Verdana, sans-serif
+    
+  }

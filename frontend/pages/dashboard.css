@@ -1,0 +1,55 @@
+#container4{
+    margin-top: 0%;
+}
+#navbar{
+    height: 50px;
+    display: flex;
+    text-align: center;
+    padding: 5px;
+    justify-content: space-around;
+    
+}
+
+#current-profile{
+    margin-left: 1550px;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#payments-tittle{
+    margin-left: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 8px;
+    color: #0091D6;
+}
+hr{
+    margin-top: 0;
+}
+.avatar {
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 70%;
+  }
+  #balance{
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+
+  #search{
+    width: 97%;
+    margin-left: 10px;
+  }
+
+  .user-list{
+    display: flex;
+  }
+  #transfer-button-list{
+    width: 100px;
+    height: 40px;
+    margin-left: 1675px;
+  }
+  .profile-pic{
+    margin-left: 5px;
+  }
