@@ -14,9 +14,9 @@ This a payments site with a sign up page, sign in page and a dashboard which let
 **Server:** Node, Express, MongoDB, JWT.
 
 
-## Deployment
+## Running
 
-To deploy this project run: for Frontend:
+To run this project in dev mode: for Frontend:
 
 ```bash
   npm run dev
